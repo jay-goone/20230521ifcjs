@@ -1,7 +1,9 @@
 diff a/README.md b/README.md	(rejected hunks)
-@@ -1,4 +1,3 @@
- # example-project with new feature
+@@ -2,4 +2,4 @@
  
  Branched out again 
--
+ 
+-Changing against
+\ No newline at end of file
++Changing again and
 \ No newline at end of file
